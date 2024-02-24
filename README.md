@@ -11,6 +11,10 @@ Made as a project for the 'Automatic Control' subject in AAST's Computer Enginee
 
 https://github.com/IsmailFakhr/Line-Following-Car/assets/98194133/df8f5ef6-0639-4ac1-b8b8-c893c1dd68d0
 
+# Credits
+
+Built and Coded by [Ismail Fakhr](https://github.com/IsmailFakhr) and [Ahmed Kamal](https://github.com/AhmadKamal0) under the supervision of the AAST Staff.
+
 # Components Used
 
 - Arduino Nano
