@@ -17,12 +17,12 @@ Built and Coded by [Ismail Fakhr](https://github.com/IsmailFakhr) and [Ahmed Kam
 
 # Components Used
 
-- Arduino Nano
-- Motor Driver
-- 3x IR Sensors
-- Acrylic Car Chassis
-- 4x Car Tire and DC Gear Motor
-- Mini Breadboard
-- 3 slot Battery Holder, 3.7V each
-- 3x 3.7V Batteries
-- Jumper Wires
+- Arduino Nano.
+- Motor Driver.
+- 3x IR Sensors.
+- Acrylic Car Chassis.
+- 4x Car Tire and DC Gear Motor.
+- Mini Breadboard.
+- 3 slot Battery Holder, 3.7V each.
+- 3x 3.7V Batteries.
+- Jumper Wires.
